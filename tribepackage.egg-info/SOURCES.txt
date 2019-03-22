@@ -1,0 +1,10 @@
+README.md
+setup.py
+tribepackage/__init__.py
+tribepackage/recursion.py
+tribepackage/sorting.py
+tribepackage.egg-info/PKG-INFO
+tribepackage.egg-info/SOURCES.txt
+tribepackage.egg-info/dependency_links.txt
+tribepackage.egg-info/requires.txt
+tribepackage.egg-info/top_level.txt
